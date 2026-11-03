@@ -1,0 +1,528 @@
+{
+  "candidate": {
+    "bbox": [
+      13,
+      120,
+      650,
+      316
+    ],
+    "score": 114.54270494381497,
+    "method": "auto",
+    "rectangularity": 0.9826630963972736,
+    "details": {
+      "aspect": 2.06,
+      "area_ratio": 0.5754,
+      "edge_density": 0.035,
+      "char_count": 7,
+      "density_score": 3.27,
+      "contrast": 60.0
+    }
+  },
+  "bbox": [
+    13,
+    120,
+    650,
+    316
+  ],
+  "adjusted_bbox": [
+    0,
+    108,
+    680,
+    340
+  ],
+  "color": {
+    "color": "Vàng",
+    "ratios": {
+      "Trắng": 0.06254854883129722,
+      "Vàng": 0.7112580326248147,
+      "Xanh dương": 0.0,
+      "Đỏ": 0.0
+    },
+    "confident": true
+  },
+  "layout": {
+    "layout": "2 dòng",
+    "evidence": {
+      "aspect_ratio": 2.0,
+      "plate_width_px": 680,
+      "plate_height_px": 340,
+      "aspect_vote": null,
+      "max_vertical_gap_ratio": 0.462,
+      "char_vote": "2 dòng",
+      "n_lines_detected": 2,
+      "final": "2 dòng",
+      "votes": [
+        "2 dòng"
+      ]
+    }
+  },
+  "ocr": {
+    "raw_text": "29D / 012.45",
+    "normalized_text": "29D / 012.45",
+    "lines": [
+      "29D",
+      "012.45"
+    ],
+    "letters": "D",
+    "digits": "2901245",
+    "avg_confidence": 0.895,
+    "best_variant": "gray",
+    "all_attempts": [
+      {
+        "variant": "gray",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                202,
+                23
+              ],
+              [
+                476,
+                23
+              ],
+              [
+                476,
+                156
+              ],
+              [
+                202,
+                156
+              ]
+            ],
+            "text": "29D",
+            "confidence": 83.0
+          },
+          {
+            "bbox": [
+              [
+                83,
+                179
+              ],
+              [
+                595,
+                179
+              ],
+              [
+                595,
+                314
+              ],
+              [
+                83,
+                314
+              ]
+            ],
+            "text": "012.45",
+            "confidence": 96.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                202,
+                23
+              ],
+              [
+                476,
+                23
+              ],
+              [
+                476,
+                156
+              ],
+              [
+                202,
+                156
+              ]
+            ],
+            "text": "29D",
+            "confidence": 0.83,
+            "reported_confidence": 83.0,
+            "confidence_unavailable": false
+          },
+          {
+            "bbox": [
+              [
+                83,
+                179
+              ],
+              [
+                595,
+                179
+              ],
+              [
+                595,
+                314
+              ],
+              [
+                83,
+                314
+              ]
+            ],
+            "text": "012.45",
+            "confidence": 0.96,
+            "reported_confidence": 96.0,
+            "confidence_unavailable": false
+          }
+        ],
+        "score": 8.055,
+        "n_chars": 9
+      },
+      {
+        "variant": "clahe",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                200,
+                24
+              ],
+              [
+                477,
+                24
+              ],
+              [
+                477,
+                160
+              ],
+              [
+                200,
+                160
+              ]
+            ],
+            "text": "29D",
+            "confidence": 78.0
+          },
+          {
+            "bbox": [
+              [
+                82,
+                178
+              ],
+              [
+                593,
+                178
+              ],
+              [
+                593,
+                313
+              ],
+              [
+                82,
+                313
+              ]
+            ],
+            "text": "012.45",
+            "confidence": 95.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                200,
+                24
+              ],
+              [
+                477,
+                24
+              ],
+              [
+                477,
+                160
+              ],
+              [
+                200,
+                160
+              ]
+            ],
+            "text": "29D",
+            "confidence": 0.78,
+            "reported_confidence": 78.0,
+            "confidence_unavailable": false
+          },
+          {
+            "bbox": [
+              [
+                82,
+                178
+              ],
+              [
+                593,
+                178
+              ],
+              [
+                593,
+                313
+              ],
+              [
+                82,
+                313
+              ]
+            ],
+            "text": "012.45",
+            "confidence": 0.95,
+            "reported_confidence": 95.0,
+            "confidence_unavailable": false
+          }
+        ],
+        "score": 7.785,
+        "n_chars": 9
+      },
+      {
+        "variant": "otsu",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                203,
+                24
+              ],
+              [
+                476,
+                24
+              ],
+              [
+                476,
+                155
+              ],
+              [
+                203,
+                155
+              ]
+            ],
+            "text": "2-D",
+            "confidence": 74.0
+          },
+          {
+            "bbox": [
+              [
+                82,
+                178
+              ],
+              [
+                593,
+                178
+              ],
+              [
+                593,
+                313
+              ],
+              [
+                82,
+                313
+              ]
+            ],
+            "text": "012.45",
+            "confidence": 95.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                203,
+                24
+              ],
+              [
+                476,
+                24
+              ],
+              [
+                476,
+                155
+              ],
+              [
+                203,
+                155
+              ]
+            ],
+            "text": "2-D",
+            "confidence": 0.74,
+            "reported_confidence": 74.0,
+            "confidence_unavailable": false
+          },
+          {
+            "bbox": [
+              [
+                82,
+                178
+              ],
+              [
+                593,
+                178
+              ],
+              [
+                593,
+                313
+              ],
+              [
+                82,
+                313
+              ]
+            ],
+            "text": "012.45",
+            "confidence": 0.95,
+            "reported_confidence": 95.0,
+            "confidence_unavailable": false
+          }
+        ],
+        "score": 7.6049999999999995,
+        "n_chars": 9
+      },
+      {
+        "variant": "adaptive",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                201,
+                24
+              ],
+              [
+                473,
+                24
+              ],
+              [
+                473,
+                155
+              ],
+              [
+                201,
+                155
+              ]
+            ],
+            "text": "250",
+            "confidence": 78.0
+          },
+          {
+            "bbox": [
+              [
+                84,
+                182
+              ],
+              [
+                590,
+                182
+              ],
+              [
+                590,
+                313
+              ],
+              [
+                84,
+                313
+              ]
+            ],
+            "text": "012.45",
+            "confidence": 95.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                201,
+                24
+              ],
+              [
+                473,
+                24
+              ],
+              [
+                473,
+                155
+              ],
+              [
+                201,
+                155
+              ]
+            ],
+            "text": "250",
+            "confidence": 0.78,
+            "reported_confidence": 78.0,
+            "confidence_unavailable": false
+          },
+          {
+            "bbox": [
+              [
+                84,
+                182
+              ],
+              [
+                590,
+                182
+              ],
+              [
+                590,
+                313
+              ],
+              [
+                84,
+                313
+              ]
+            ],
+            "text": "012.45",
+            "confidence": 0.95,
+            "reported_confidence": 95.0,
+            "confidence_unavailable": false
+          }
+        ],
+        "score": 7.785,
+        "n_chars": 9
+      }
+    ],
+    "processing_time": 0.96,
+    "ocr_boxes": [
+      {
+        "bbox": [
+          [
+            202,
+            23
+          ],
+          [
+            476,
+            23
+          ],
+          [
+            476,
+            156
+          ],
+          [
+            202,
+            156
+          ]
+        ],
+        "text": "29D",
+        "confidence": 0.83,
+        "reported_confidence": 83.0,
+        "confidence_unavailable": false
+      },
+      {
+        "bbox": [
+          [
+            83,
+            179
+          ],
+          [
+            595,
+            179
+          ],
+          [
+            595,
+            314
+          ],
+          [
+            83,
+            314
+          ]
+        ],
+        "text": "012.45",
+        "confidence": 0.96,
+        "reported_confidence": 96.0,
+        "confidence_unavailable": false
+      }
+    ]
+  }
+}

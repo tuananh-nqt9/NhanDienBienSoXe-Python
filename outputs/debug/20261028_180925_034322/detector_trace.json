@@ -1,0 +1,87 @@
+{
+  "image_shape": [
+    455,
+    680
+  ],
+  "scale": 1.0,
+  "contours_total": 161,
+  "candidates": [
+    {
+      "bbox_processing": [
+        317,
+        109,
+        41,
+        30
+      ],
+      "bbox_original": [
+        317,
+        109,
+        41,
+        30
+      ],
+      "score_before_rectangularity_bonus": 54.488,
+      "rectangularity": 0.83,
+      "details": {
+        "aspect": 1.37,
+        "area_ratio": 0.004,
+        "edge_density": 0.15,
+        "char_count": 1,
+        "density_score": 0.0,
+        "contrast": 69.1
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        513,
+        34,
+        73,
+        37
+      ],
+      "bbox_original": [
+        513,
+        34,
+        73,
+        37
+      ],
+      "score_before_rectangularity_bonus": 79.088,
+      "rectangularity": 0.625,
+      "details": {
+        "aspect": 1.97,
+        "area_ratio": 0.0087,
+        "edge_density": 0.07,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 49.2
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        8,
+        0,
+        649,
+        455
+      ],
+      "bbox_original": [
+        8,
+        0,
+        649,
+        455
+      ],
+      "score_before_rectangularity_bonus": 54.4,
+      "rectangularity": 0.915,
+      "details": {
+        "aspect": 1.43,
+        "area_ratio": 0.9544,
+        "edge_density": 0.036,
+        "char_count": 8,
+        "density_score": 2.2,
+        "contrast": 72.1
+      },
+      "reason": "accepted"
+    }
+  ]
+}

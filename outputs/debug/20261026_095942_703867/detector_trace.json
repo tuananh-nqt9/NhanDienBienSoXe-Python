@@ -1,0 +1,217 @@
+{
+  "image_shape": [
+    525,
+    680
+  ],
+  "scale": 1.0,
+  "contours_total": 33,
+  "candidates": [
+    {
+      "bbox_processing": [
+        0,
+        105,
+        680,
+        345
+      ],
+      "bbox_original": [
+        0,
+        105,
+        680,
+        345
+      ],
+      "score_before_rectangularity_bonus": 76.837,
+      "rectangularity": 0.984,
+      "details": {
+        "aspect": 1.97,
+        "area_ratio": 0.6571,
+        "edge_density": 0.061,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 71.8
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        13,
+        119,
+        650,
+        317
+      ],
+      "bbox_original": [
+        13,
+        119,
+        650,
+        317
+      ],
+      "score_before_rectangularity_bonus": 108.0,
+      "rectangularity": 0.98,
+      "details": {
+        "aspect": 2.05,
+        "area_ratio": 0.5772,
+        "edge_density": 0.047,
+        "char_count": 9,
+        "density_score": 4.13,
+        "contrast": 66.3
+      },
+      "reason": "accepted"
+    },
+    {
+      "bbox_processing": [
+        299,
+        131,
+        179,
+        137
+      ],
+      "bbox_original": [
+        299,
+        131,
+        179,
+        137
+      ],
+      "score_before_rectangularity_bonus": 64.29,
+      "rectangularity": 0.809,
+      "details": {
+        "aspect": 1.31,
+        "area_ratio": 0.0687,
+        "edge_density": 0.143,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 88.8
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        417,
+        234,
+        58,
+        28
+      ],
+      "bbox_original": [
+        417,
+        234,
+        58,
+        28
+      ],
+      "score_before_rectangularity_bonus": 68.584,
+      "rectangularity": 0.548,
+      "details": {
+        "aspect": 2.07,
+        "area_ratio": 0.0045,
+        "edge_density": 0.119,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 65.9
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        310,
+        190,
+        65,
+        18
+      ],
+      "bbox_original": [
+        310,
+        190,
+        65,
+        18
+      ],
+      "score_before_rectangularity_bonus": 58.821,
+      "rectangularity": 0.728,
+      "details": {
+        "aspect": 3.61,
+        "area_ratio": 0.0033,
+        "edge_density": 0.127,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 62.9
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        398,
+        134,
+        77,
+        30
+      ],
+      "bbox_original": [
+        398,
+        134,
+        77,
+        30
+      ],
+      "score_before_rectangularity_bonus": 57.091,
+      "rectangularity": 0.659,
+      "details": {
+        "aspect": 2.57,
+        "area_ratio": 0.0065,
+        "edge_density": 0.07,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 65.9
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        204,
+        199,
+        74,
+        64
+      ],
+      "bbox_original": [
+        204,
+        199,
+        74,
+        64
+      ],
+      "score_before_rectangularity_bonus": 41.786,
+      "rectangularity": 0.504,
+      "details": {
+        "aspect": 1.16,
+        "area_ratio": 0.0133,
+        "edge_density": 0.06,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 92.2
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        204,
+        133,
+        68,
+        29
+      ],
+      "bbox_original": [
+        204,
+        133,
+        68,
+        29
+      ],
+      "score_before_rectangularity_bonus": 57.236,
+      "rectangularity": 0.673,
+      "details": {
+        "aspect": 2.34,
+        "area_ratio": 0.0055,
+        "edge_density": 0.075,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 68.6
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# requirements.txt
+# =========================================================================
+# DANH SÁCH THƯ VIỆN DỰ ÁN NHẬN DIỆN VÀ PHÂN LOẠI BIỂN SỐ XE
+# =========================================================================
+
+# Xử lý ảnh và thị giác máy tính
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Nhận diện ký tự quang học (OCR)
+# Yêu cầu cài đặt Tesseract OCR trên hệ điều hành và thêm vào PATH
+pytesseract>=0.3.10
+
+# Xử lý đồ họa và vẽ phông chữ tiếng Việt có dấu
+Pillow>=10.0.0

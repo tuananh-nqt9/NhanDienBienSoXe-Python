@@ -1,0 +1,391 @@
+{
+  "candidate": {
+    "bbox": [
+      530,
+      353,
+      40,
+      33
+    ],
+    "score": 92.49793449377123,
+    "method": "auto",
+    "rectangularity": 0.7219696969696969,
+    "details": {
+      "aspect": 1.21,
+      "area_ratio": 0.0037,
+      "edge_density": 0.272,
+      "char_count": 5,
+      "density_score": 3.25,
+      "contrast": 27.6
+    }
+  },
+  "bbox": [
+    530,
+    353,
+    40,
+    33
+  ],
+  "adjusted_bbox": [
+    529,
+    352,
+    42,
+    35
+  ],
+  "color": {
+    "color": "Vàng",
+    "ratios": {
+      "Trắng": 0.0,
+      "Vàng": 0.732,
+      "Xanh dương": 0.0,
+      "Đỏ": 0.12
+    },
+    "confident": true
+  },
+  "layout": {
+    "layout": "2 dòng",
+    "evidence": {
+      "aspect_ratio": 1.2,
+      "plate_width_px": 42,
+      "plate_height_px": 35,
+      "aspect_vote": "2 dòng",
+      "max_vertical_gap_ratio": 0.857,
+      "char_vote": "2 dòng",
+      "n_lines_detected": 2,
+      "final": "2 dòng",
+      "votes": [
+        "2 dòng",
+        "2 dòng"
+      ]
+    }
+  },
+  "ocr": {
+    "raw_text": "82 / BA",
+    "normalized_text": "82 / BA",
+    "lines": [
+      "82",
+      "BA"
+    ],
+    "letters": "BA",
+    "digits": "82",
+    "avg_confidence": 0.05,
+    "best_variant": "adaptive",
+    "all_attempts": [
+      {
+        "variant": "gray",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                0,
+                34
+              ],
+              [
+                72,
+                34
+              ],
+              [
+                72,
+                59
+              ],
+              [
+                0,
+                59
+              ]
+            ],
+            "text": "T",
+            "confidence": 0.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                0,
+                34
+              ],
+              [
+                72,
+                34
+              ],
+              [
+                72,
+                59
+              ],
+              [
+                0,
+                59
+              ]
+            ],
+            "text": "T",
+            "confidence": 0.05,
+            "reported_confidence": 0.0,
+            "confidence_unavailable": true
+          }
+        ],
+        "score": 0.05,
+        "n_chars": 1
+      },
+      {
+        "variant": "clahe",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                -1,
+                34
+              ],
+              [
+                72,
+                34
+              ],
+              [
+                72,
+                60
+              ],
+              [
+                -1,
+                60
+              ]
+            ],
+            "text": "S",
+            "confidence": 0.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                -1,
+                34
+              ],
+              [
+                72,
+                34
+              ],
+              [
+                72,
+                60
+              ],
+              [
+                -1,
+                60
+              ]
+            ],
+            "text": "S",
+            "confidence": 0.05,
+            "reported_confidence": 0.0,
+            "confidence_unavailable": true
+          }
+        ],
+        "score": 0.05,
+        "n_chars": 1
+      },
+      {
+        "variant": "otsu",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                0,
+                0
+              ],
+              [
+                72,
+                0
+              ],
+              [
+                72,
+                55
+              ],
+              [
+                0,
+                55
+              ]
+            ],
+            "text": "4",
+            "confidence": 0.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                0,
+                0
+              ],
+              [
+                72,
+                0
+              ],
+              [
+                72,
+                55
+              ],
+              [
+                0,
+                55
+              ]
+            ],
+            "text": "4",
+            "confidence": 0.05,
+            "reported_confidence": 0.0,
+            "confidence_unavailable": true
+          }
+        ],
+        "score": 0.05,
+        "n_chars": 1
+      },
+      {
+        "variant": "adaptive",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                -1,
+                -1
+              ],
+              [
+                71,
+                -1
+              ],
+              [
+                71,
+                35
+              ],
+              [
+                -1,
+                35
+              ]
+            ],
+            "text": "82",
+            "confidence": 0.0
+          },
+          {
+            "bbox": [
+              [
+                0,
+                35
+              ],
+              [
+                71,
+                35
+              ],
+              [
+                71,
+                59
+              ],
+              [
+                0,
+                59
+              ]
+            ],
+            "text": "BA",
+            "confidence": 0.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                -1,
+                -1
+              ],
+              [
+                71,
+                -1
+              ],
+              [
+                71,
+                35
+              ],
+              [
+                -1,
+                35
+              ]
+            ],
+            "text": "82",
+            "confidence": 0.05,
+            "reported_confidence": 0.0,
+            "confidence_unavailable": true
+          },
+          {
+            "bbox": [
+              [
+                0,
+                35
+              ],
+              [
+                71,
+                35
+              ],
+              [
+                71,
+                59
+              ],
+              [
+                0,
+                59
+              ]
+            ],
+            "text": "BA",
+            "confidence": 0.05,
+            "reported_confidence": 0.0,
+            "confidence_unavailable": true
+          }
+        ],
+        "score": 0.2,
+        "n_chars": 4
+      }
+    ],
+    "processing_time": 1.271,
+    "ocr_boxes": [
+      {
+        "bbox": [
+          [
+            -1,
+            -1
+          ],
+          [
+            71,
+            -1
+          ],
+          [
+            71,
+            35
+          ],
+          [
+            -1,
+            35
+          ]
+        ],
+        "text": "82",
+        "confidence": 0.05,
+        "reported_confidence": 0.0,
+        "confidence_unavailable": true
+      },
+      {
+        "bbox": [
+          [
+            0,
+            35
+          ],
+          [
+            71,
+            35
+          ],
+          [
+            71,
+            59
+          ],
+          [
+            0,
+            59
+          ]
+        ],
+        "text": "BA",
+        "confidence": 0.05,
+        "reported_confidence": 0.0,
+        "confidence_unavailable": true
+      }
+    ]
+  }
+}

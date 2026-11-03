@@ -1,0 +1,212 @@
+{
+  "candidate": {
+    "bbox": [
+      0,
+      0,
+      200,
+      60
+    ],
+    "score": -1,
+    "method": "manual"
+  },
+  "bbox": [
+    0,
+    0,
+    200,
+    60
+  ],
+  "adjusted_bbox": [
+    0,
+    0,
+    208,
+    62
+  ],
+  "color": {
+    "color": "Không xác định",
+    "ratios": {
+      "Trắng": 0.062266500622665005,
+      "Vàng": 0.06973848069738481,
+      "Xanh dương": 0.05557285180572852,
+      "Đỏ": 0.10849937733499378
+    },
+    "confident": false
+  },
+  "layout": {
+    "layout": "Không xác định",
+    "evidence": {
+      "aspect_ratio": 3.35,
+      "plate_width_px": 208,
+      "plate_height_px": 62,
+      "aspect_vote": "1 dòng",
+      "char_vote": null,
+      "n_lines_detected": 0,
+      "final": "Không xác định",
+      "votes": [],
+      "insufficient_evidence": true
+    }
+  },
+  "ocr": {
+    "raw_text": "PSAS",
+    "normalized_text": "PSAS",
+    "lines": [
+      "PSAS"
+    ],
+    "letters": "PSAS",
+    "digits": "",
+    "avg_confidence": 0.05,
+    "best_variant": "clahe",
+    "all_attempts": [
+      {
+        "variant": "gray",
+        "engine_results": [],
+        "raw_results": [],
+        "score": 0,
+        "n_chars": 0
+      },
+      {
+        "variant": "clahe",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                7,
+                -2
+              ],
+              [
+                198,
+                -2
+              ],
+              [
+                198,
+                69
+              ],
+              [
+                7,
+                69
+              ]
+            ],
+            "text": "PSAS",
+            "confidence": 0.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                7,
+                -2
+              ],
+              [
+                198,
+                -2
+              ],
+              [
+                198,
+                69
+              ],
+              [
+                7,
+                69
+              ]
+            ],
+            "text": "PSAS",
+            "confidence": 0.05,
+            "reported_confidence": 0.0,
+            "confidence_unavailable": true
+          }
+        ],
+        "score": 0.2,
+        "n_chars": 4
+      },
+      {
+        "variant": "otsu",
+        "engine_results": [],
+        "raw_results": [],
+        "score": 0,
+        "n_chars": 0
+      },
+      {
+        "variant": "adaptive",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                12,
+                3
+              ],
+              [
+                194,
+                3
+              ],
+              [
+                194,
+                57
+              ],
+              [
+                12,
+                57
+              ]
+            ],
+            "text": "AORS",
+            "confidence": 0.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                12,
+                3
+              ],
+              [
+                194,
+                3
+              ],
+              [
+                194,
+                57
+              ],
+              [
+                12,
+                57
+              ]
+            ],
+            "text": "AORS",
+            "confidence": 0.05,
+            "reported_confidence": 0.0,
+            "confidence_unavailable": true
+          }
+        ],
+        "score": 0.2,
+        "n_chars": 4
+      }
+    ],
+    "processing_time": 1.284,
+    "ocr_boxes": [
+      {
+        "bbox": [
+          [
+            7,
+            -2
+          ],
+          [
+            198,
+            -2
+          ],
+          [
+            198,
+            69
+          ],
+          [
+            7,
+            69
+          ]
+        ],
+        "text": "PSAS",
+        "confidence": 0.05,
+        "reported_confidence": 0.0,
+        "confidence_unavailable": true
+      }
+    ]
+  }
+}

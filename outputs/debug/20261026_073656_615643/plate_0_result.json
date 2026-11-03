@@ -1,0 +1,310 @@
+{
+  "candidate": {
+    "bbox": [
+      168,
+      225,
+      153,
+      55
+    ],
+    "score": -1,
+    "method": "manual"
+  },
+  "bbox": [
+    168,
+    225,
+    153,
+    55
+  ],
+  "adjusted_bbox": [
+    162,
+    223,
+    165,
+    59
+  ],
+  "color": {
+    "color": "Xanh dương",
+    "ratios": {
+      "Trắng": 0.27489564698867025,
+      "Vàng": 0.0,
+      "Xanh dương": 0.5285231564301331,
+      "Đỏ": 0.00019876764062810574
+    },
+    "confident": true
+  },
+  "layout": {
+    "layout": "1 dòng",
+    "evidence": {
+      "aspect_ratio": 2.8,
+      "plate_width_px": 165,
+      "plate_height_px": 59,
+      "aspect_vote": "1 dòng",
+      "char_vote": "1 dòng",
+      "n_lines_detected": 1,
+      "final": "1 dòng",
+      "votes": [
+        "1 dòng",
+        "1 dòng"
+      ]
+    }
+  },
+  "ocr": {
+    "raw_text": "80B-6599",
+    "normalized_text": "80B-6599",
+    "lines": [
+      "80B-6599"
+    ],
+    "letters": "B",
+    "digits": "806599",
+    "avg_confidence": 0.05,
+    "best_variant": "gray",
+    "all_attempts": [
+      {
+        "variant": "gray",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                14,
+                7
+              ],
+              [
+                145,
+                7
+              ],
+              [
+                145,
+                43
+              ],
+              [
+                14,
+                43
+              ]
+            ],
+            "text": "80B-6599",
+            "confidence": 0.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                14,
+                7
+              ],
+              [
+                145,
+                7
+              ],
+              [
+                145,
+                43
+              ],
+              [
+                14,
+                43
+              ]
+            ],
+            "text": "80B-6599",
+            "confidence": 0.05,
+            "reported_confidence": 0.0,
+            "confidence_unavailable": true
+          }
+        ],
+        "score": 0.4,
+        "n_chars": 8
+      },
+      {
+        "variant": "clahe",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                9,
+                -3
+              ],
+              [
+                155,
+                -3
+              ],
+              [
+                155,
+                62
+              ],
+              [
+                9,
+                62
+              ]
+            ],
+            "text": "80B-5500",
+            "confidence": 0.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                9,
+                -3
+              ],
+              [
+                155,
+                -3
+              ],
+              [
+                155,
+                62
+              ],
+              [
+                9,
+                62
+              ]
+            ],
+            "text": "80B-5500",
+            "confidence": 0.05,
+            "reported_confidence": 0.0,
+            "confidence_unavailable": true
+          }
+        ],
+        "score": 0.4,
+        "n_chars": 8
+      },
+      {
+        "variant": "otsu",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                9,
+                -3
+              ],
+              [
+                155,
+                -3
+              ],
+              [
+                155,
+                62
+              ],
+              [
+                9,
+                62
+              ]
+            ],
+            "text": "806-5505",
+            "confidence": 0.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                9,
+                -3
+              ],
+              [
+                155,
+                -3
+              ],
+              [
+                155,
+                62
+              ],
+              [
+                9,
+                62
+              ]
+            ],
+            "text": "806-5505",
+            "confidence": 0.05,
+            "reported_confidence": 0.0,
+            "confidence_unavailable": true
+          }
+        ],
+        "score": 0.4,
+        "n_chars": 8
+      },
+      {
+        "variant": "adaptive",
+        "engine_results": [
+          {
+            "bbox": [
+              [
+                9,
+                2
+              ],
+              [
+                157,
+                2
+              ],
+              [
+                157,
+                56
+              ],
+              [
+                9,
+                56
+              ]
+            ],
+            "text": "02-5509",
+            "confidence": 0.0
+          }
+        ],
+        "raw_results": [
+          {
+            "bbox": [
+              [
+                9,
+                2
+              ],
+              [
+                157,
+                2
+              ],
+              [
+                157,
+                56
+              ],
+              [
+                9,
+                56
+              ]
+            ],
+            "text": "02-5509",
+            "confidence": 0.05,
+            "reported_confidence": 0.0,
+            "confidence_unavailable": true
+          }
+        ],
+        "score": 0.35000000000000003,
+        "n_chars": 7
+      }
+    ],
+    "processing_time": 0.52,
+    "ocr_boxes": [
+      {
+        "bbox": [
+          [
+            14,
+            7
+          ],
+          [
+            145,
+            7
+          ],
+          [
+            145,
+            43
+          ],
+          [
+            14,
+            43
+          ]
+        ],
+        "text": "80B-6599",
+        "confidence": 0.05,
+        "reported_confidence": 0.0,
+        "confidence_unavailable": true
+      }
+    ]
+  }
+}

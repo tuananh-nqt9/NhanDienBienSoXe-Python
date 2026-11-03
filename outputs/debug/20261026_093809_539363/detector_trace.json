@@ -1,0 +1,529 @@
+{
+  "image_shape": [
+    525,
+    680
+  ],
+  "scale": 1.0,
+  "contours_total": 126,
+  "candidates": [
+    {
+      "bbox_processing": [
+        156,
+        501,
+        51,
+        24
+      ],
+      "bbox_original": [
+        156,
+        501,
+        51,
+        24
+      ],
+      "score_before_rectangularity_bonus": 67.5,
+      "rectangularity": 0.472,
+      "details": {
+        "aspect": 2.12,
+        "area_ratio": 0.0034,
+        "edge_density": 0.25,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 20.0
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        478,
+        416,
+        93,
+        18
+      ],
+      "bbox_original": [
+        478,
+        416,
+        93,
+        18
+      ],
+      "score_before_rectangularity_bonus": 72.867,
+      "rectangularity": 0.6,
+      "details": {
+        "aspect": 5.17,
+        "area_ratio": 0.0047,
+        "edge_density": 0.262,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 43.3
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        395,
+        400,
+        73,
+        34
+      ],
+      "bbox_original": [
+        395,
+        400,
+        73,
+        34
+      ],
+      "score_before_rectangularity_bonus": 77.869,
+      "rectangularity": 0.846,
+      "details": {
+        "aspect": 2.15,
+        "area_ratio": 0.007,
+        "edge_density": 0.262,
+        "char_count": 2,
+        "density_score": 2.0,
+        "contrast": 40.9
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        418,
+        359,
+        78,
+        60
+      ],
+      "bbox_original": [
+        418,
+        359,
+        78,
+        60
+      ],
+      "score_before_rectangularity_bonus": 64.16,
+      "rectangularity": 0.556,
+      "details": {
+        "aspect": 1.3,
+        "area_ratio": 0.0131,
+        "edge_density": 0.139,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 64.9
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        530,
+        353,
+        40,
+        33
+      ],
+      "bbox_original": [
+        530,
+        353,
+        40,
+        33
+      ],
+      "score_before_rectangularity_bonus": 84.498,
+      "rectangularity": 0.722,
+      "details": {
+        "aspect": 1.21,
+        "area_ratio": 0.0037,
+        "edge_density": 0.272,
+        "char_count": 5,
+        "density_score": 3.25,
+        "contrast": 27.6
+      },
+      "reason": "accepted"
+    },
+    {
+      "bbox_processing": [
+        520,
+        352,
+        72,
+        66
+      ],
+      "bbox_original": [
+        520,
+        352,
+        72,
+        66
+      ],
+      "score_before_rectangularity_bonus": 45.335,
+      "rectangularity": 0.441,
+      "details": {
+        "aspect": 1.09,
+        "area_ratio": 0.0133,
+        "edge_density": 0.178,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 59.9
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        486,
+        351,
+        41,
+        27
+      ],
+      "bbox_original": [
+        486,
+        351,
+        41,
+        27
+      ],
+      "score_before_rectangularity_bonus": 67.046,
+      "rectangularity": 0.654,
+      "details": {
+        "aspect": 1.52,
+        "area_ratio": 0.0031,
+        "edge_density": 0.235,
+        "char_count": 1,
+        "density_score": 0.0,
+        "contrast": 35.2
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        163,
+        343,
+        58,
+        39
+      ],
+      "bbox_original": [
+        163,
+        343,
+        58,
+        39
+      ],
+      "score_before_rectangularity_bonus": 52.891,
+      "rectangularity": 0.744,
+      "details": {
+        "aspect": 1.49,
+        "area_ratio": 0.0063,
+        "edge_density": 0.263,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 20.0
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        454,
+        326,
+        45,
+        31
+      ],
+      "bbox_original": [
+        454,
+        326,
+        45,
+        31
+      ],
+      "score_before_rectangularity_bonus": 57.613,
+      "rectangularity": 0.548,
+      "details": {
+        "aspect": 1.45,
+        "area_ratio": 0.0039,
+        "edge_density": 0.254,
+        "char_count": 1,
+        "density_score": 0.0,
+        "contrast": 41.4
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        351,
+        323,
+        83,
+        74
+      ],
+      "bbox_original": [
+        351,
+        323,
+        83,
+        74
+      ],
+      "score_before_rectangularity_bonus": 52.512,
+      "rectangularity": 0.49,
+      "details": {
+        "aspect": 1.12,
+        "area_ratio": 0.0172,
+        "edge_density": 0.25,
+        "char_count": 2,
+        "density_score": 2.0,
+        "contrast": 46.7
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        515,
+        289,
+        76,
+        68
+      ],
+      "bbox_original": [
+        515,
+        289,
+        76,
+        68
+      ],
+      "score_before_rectangularity_bonus": 45.068,
+      "rectangularity": 0.585,
+      "details": {
+        "aspect": 1.12,
+        "area_ratio": 0.0145,
+        "edge_density": 0.169,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 51.0
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        429,
+        234,
+        46,
+        28
+      ],
+      "bbox_original": [
+        429,
+        234,
+        46,
+        28
+      ],
+      "score_before_rectangularity_bonus": 70.683,
+      "rectangularity": 0.594,
+      "details": {
+        "aspect": 1.64,
+        "area_ratio": 0.0036,
+        "edge_density": 0.189,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 65.6
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        204,
+        219,
+        73,
+        44
+      ],
+      "bbox_original": [
+        204,
+        219,
+        73,
+        44
+      ],
+      "score_before_rectangularity_bonus": 80.072,
+      "rectangularity": 0.6,
+      "details": {
+        "aspect": 1.66,
+        "area_ratio": 0.009,
+        "edge_density": 0.169,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 85.0
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        319,
+        190,
+        57,
+        18
+      ],
+      "bbox_original": [
+        319,
+        190,
+        57,
+        18
+      ],
+      "score_before_rectangularity_bonus": 46.55,
+      "rectangularity": 0.598,
+      "details": {
+        "aspect": 3.17,
+        "area_ratio": 0.0029,
+        "edge_density": 0.218,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 58.5
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        242,
+        190,
+        115,
+        51
+      ],
+      "bbox_original": [
+        242,
+        190,
+        115,
+        51
+      ],
+      "score_before_rectangularity_bonus": 79.527,
+      "rectangularity": 0.542,
+      "details": {
+        "aspect": 2.25,
+        "area_ratio": 0.0164,
+        "edge_density": 0.151,
+        "char_count": 1,
+        "density_score": 0.0,
+        "contrast": 77.4
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        397,
+        134,
+        78,
+        31
+      ],
+      "bbox_original": [
+        397,
+        134,
+        78,
+        31
+      ],
+      "score_before_rectangularity_bonus": 60.186,
+      "rectangularity": 0.565,
+      "details": {
+        "aspect": 2.52,
+        "area_ratio": 0.0068,
+        "edge_density": 0.173,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 67.0
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        204,
+        133,
+        66,
+        28
+      ],
+      "bbox_original": [
+        204,
+        133,
+        66,
+        28
+      ],
+      "score_before_rectangularity_bonus": 60.487,
+      "rectangularity": 0.63,
+      "details": {
+        "aspect": 2.36,
+        "area_ratio": 0.0052,
+        "edge_density": 0.183,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 66.1
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        467,
+        121,
+        194,
+        187
+      ],
+      "bbox_original": [
+        467,
+        121,
+        194,
+        187
+      ],
+      "score_before_rectangularity_bonus": 52.2,
+      "rectangularity": 0.675,
+      "details": {
+        "aspect": 1.04,
+        "area_ratio": 0.1016,
+        "edge_density": 0.24,
+        "char_count": 2,
+        "density_score": 2.0,
+        "contrast": 44.5
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        344,
+        83,
+        46,
+        19
+      ],
+      "bbox_original": [
+        344,
+        83,
+        46,
+        19
+      ],
+      "score_before_rectangularity_bonus": 42.037,
+      "rectangularity": 0.55,
+      "details": {
+        "aspect": 2.42,
+        "area_ratio": 0.0024,
+        "edge_density": 0.235,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 20.7
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    },
+    {
+      "bbox_processing": [
+        185,
+        48,
+        88,
+        32
+      ],
+      "bbox_original": [
+        185,
+        48,
+        88,
+        32
+      ],
+      "score_before_rectangularity_bonus": 57.99,
+      "rectangularity": 0.532,
+      "details": {
+        "aspect": 2.75,
+        "area_ratio": 0.0079,
+        "edge_density": 0.266,
+        "char_count": 0,
+        "density_score": 0.0,
+        "contrast": 20.8
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    }
+  ]
+}

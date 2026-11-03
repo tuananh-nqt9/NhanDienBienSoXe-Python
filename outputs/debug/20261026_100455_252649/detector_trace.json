@@ -1,0 +1,36 @@
+{
+  "image_shape": [
+    525,
+    680
+  ],
+  "scale": 1.0,
+  "contours_total": 44,
+  "candidates": [
+    {
+      "bbox_processing": [
+        258,
+        209,
+        57,
+        26
+      ],
+      "bbox_original": [
+        258,
+        209,
+        57,
+        26
+      ],
+      "score_before_rectangularity_bonus": 66.377,
+      "rectangularity": 0.568,
+      "details": {
+        "aspect": 2.19,
+        "area_ratio": 0.0042,
+        "edge_density": 0.213,
+        "char_count": 1,
+        "density_score": 0.0,
+        "contrast": 35.6
+      },
+      "reason": "rejected_insufficient_character_evidence",
+      "required_char_count": 4
+    }
+  ]
+}
